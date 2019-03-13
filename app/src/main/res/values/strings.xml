@@ -3,4 +3,5 @@
     <string name="game_your_score">Your scrore is: %s</string>
     <string name="game_time_left">Time left : %s</string>
     <string name="game_tap_me">Tap Me</string>
+    <string name="game_gae_over_message">Times Up! your score was: %s</string>
 </resources>
