@@ -1,4 +1,11 @@
-/local.properties
+
+.idea/codeStyles/
+.idea/gradle.xml
+.idea/misc.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+
+
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
@@ -10,13 +17,6 @@
 /captures
 .externalNativeBuild
 
-.idea/codeStyles/
-.idea/gradle.xml
-.idea/misc.xml
-.idea/runConfigurations.xml
-.idea/vcs.xml
-
-app/build.gradle
 app/libs/
 app/proguard-rules.pro
 
